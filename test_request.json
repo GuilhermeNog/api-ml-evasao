@@ -1,0 +1,12 @@
+{
+  "idade": 19,
+  "sexo": "F",
+  "tipo_escola_medio": "publica",
+  "nota_enem": 650.5,
+  "renda_familiar": 2500.0,
+  "trabalha": 1,
+  "horas_trabalho_semana": 30,
+  "reprovacoes_1_sem": 2,
+  "bolsista": 0,
+  "distancia_campus_km": 12.3
+}
